@@ -10,3 +10,5 @@
 - 😄 Pronouns: He/Him
 <!--- ⚡ Fun fact: ...--->
 
+## Technologies I use: 
+[https://icons8.com/icon/84710/bootstrap]
