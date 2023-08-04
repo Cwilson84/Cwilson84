@@ -11,4 +11,4 @@
 <!--- ⚡ Fun fact: ...--->
 
 ## Technologies I use: 
-<i class="fa-brands fa-bootstrap"></i>
+
